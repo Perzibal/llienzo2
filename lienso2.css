@@ -1,0 +1,8 @@
+#canvaslienzo2{
+border-width: 10px; 
+background-color: seashell;
+border-style: double;
+}
+body{
+background-image: url(MESSI.jpg);
+}
